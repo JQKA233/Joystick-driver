@@ -1,0 +1,3 @@
+/home/xcwhk/Joystick-driver/build/CMakeFiles/XCW.dir
+/home/xcwhk/Joystick-driver/build/CMakeFiles/edit_cache.dir
+/home/xcwhk/Joystick-driver/build/CMakeFiles/rebuild_cache.dir

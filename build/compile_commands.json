@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/xcwhk/Joystick-driver/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -o CMakeFiles/XCW.dir/Joystick.cpp.o -c /home/xcwhk/Joystick-driver/Joystick.cpp",
+  "file": "/home/xcwhk/Joystick-driver/Joystick.cpp"
+},
+{
+  "directory": "/home/xcwhk/Joystick-driver/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++ -g -o CMakeFiles/XCW.dir/Serial.cpp.o -c /home/xcwhk/Joystick-driver/Serial.cpp",
+  "file": "/home/xcwhk/Joystick-driver/Serial.cpp"
+}
+]
